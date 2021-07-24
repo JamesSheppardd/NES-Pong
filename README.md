@@ -1,3 +1,4 @@
+![Logo](/Pong/assets/LogoNoBg.png)
 # NES-Pong
 
 ### About
@@ -7,7 +8,8 @@ This is my first time using assembly and it uses the 6502 architecture, and is m
 If you wish to play the game you can download it from my [itch.io](https://jamessheppard.itch.io/nes-pong) page, or you can compile it yourself (only works if you have installed [cc65](https://cc65.github.io/#Links)):
 1. Clone this repository
 2. Move into the folder you cloned into
-3. Run "Makefile.bat" from the src foldera couple of files
+3. Run "Makefile.bat" from the src folder
+4. A couple of files will be created
     * pong.nes  - the playable ROM to be opened with an NES emulator like [Mesen](https://mesen.ca/)
     * pong.dbg  - a debug file
     * pong.o
