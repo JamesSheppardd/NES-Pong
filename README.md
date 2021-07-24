@@ -1,4 +1,4 @@
-![Logo](/Pong/assets/LogoNoBg.png)
+![Logo](/assets/LogoNoBg.png)
 # NES-Pong
 
 ### About
